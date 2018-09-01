@@ -1,0 +1,195 @@
+.firstpanel{
+    background-image: url(../Img/header.jpg);
+    height: 650px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center
+}
+
+.bg-light{
+    background-color: transparent !important; 
+    
+}
+
+.f{
+    color: white;
+    font-size: 52px;
+    margin-top: 120px
+}
+.fhr{
+    
+    width: 70%;
+    height: 0.5px;
+    background-color: white
+}
+
+.navbar-brand{
+    margin-left: 130px;
+    font-weight: 600}
+
+.firstpp{
+    color: lightgray;
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+    width: 65%;
+    padding-top: 50px
+}
+.btn{
+    border-radius: 17px ;
+    font-weight: 600 ;
+    text-align: center !important;
+    padding: 10 15 10 15;
+    margin: auto !important
+    
+    
+    
+}
+.navbar-light .navbar-brand{
+    color: white
+}
+
+.nav-link{
+    color: white !important
+}
+.bg-light{
+    border-bottom: solid 1px
+}
+
+.secondpanel{
+    background-color: #f05f40;
+    text-align: center;
+    margin: auto;
+    height: 350px;
+    color: white
+}
+
+.secondpanel h1{
+    text-align: center;
+    margin: auto;
+    padding-top: 30px;
+    font-size: 32px;
+    font-weight: 400
+}
+
+.secondpanel p{
+    text-align: center;
+    margin: auto;
+    padding-top: 40px;
+    padding-bottom: 60px;
+    font-size: 22px;
+    width: 60%;
+    color: rgba(255,255,255,.7)
+    
+    
+}
+.btn2{
+    padding: 20 30 20 30;
+    border-radius: 30px;
+    font-weight: bold
+}
+
+.thirdpanel{
+    height: 400px;
+    width: 80%;
+    margin: auto
+    
+}
+.thirdpanel h2{
+    margin: auto;
+    text-align: center;
+    padding: 70 0 50 0
+}
+
+.thirdpanel p{
+    
+    color: #868e96;
+    width: 90%;
+    font-size: 18px;
+    text-align: center;
+    margin: auto;
+    
+}
+.fourthpanel{
+    width: 100%;
+    height: 500px;
+    overflow:hidden;
+    position: relative
+    
+    
+}
+
+
+.k
+{
+    padding: 0px;
+    margin: 0px;
+}
+.iconcolors{
+    color: #f05f40
+}
+
+.imgcaption{
+    
+    width: 100%; 
+	height:100%; 
+	position: absolute;
+	background-color: rgba(240,95,64,.9); 
+	text-align: center;
+	z-index: 999;
+	top: 0; 
+	overflow: hidden;
+    transition: 0.4s;
+    opacity: 0
+    
+    
+}
+
+.imgcaption:hover{
+    width: 100%; 
+	height:100%; 
+	position: absolute;
+	background-color: rgba(240,95,64,.9); 
+	text-align: center;
+	z-index: 999;
+	top: 0; 
+	overflow: hidden;
+    opacity: 1
+    
+}
+
+.imgcaption h2{
+    
+    color: white;
+    padding-top: 30px;
+    transition: .7s;
+    transition-delay: 0.5s
+    
+}
+.imgcaption:hover h2{
+    
+    color: white;
+    padding-top: 30px;
+    font-size: 40px;
+    
+    
+}
+
+.imgcaption h6{
+    color: white;
+    padding-top: 30px
+}
+
+.fifthpanel p{
+    
+    width: 60%;
+    font-size: 20px;
+    text-align: center;
+    margin: auto
+}
+
+.fifthpanel a{
+    color:  rgba(240,95,64,.9);
+    font-size: 20px
+}
